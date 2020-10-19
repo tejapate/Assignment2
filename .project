@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Assignment2</name>
+	<name>Assignment2_Standford</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Milkmaid.jpg</name>
+			<type>1</type>
+			<location>C:/Users/patel/Desktop/Milkmaid.jpg</location>
+		</link>
+		<link>
+			<name>frog.jpg</name>
+			<type>1</type>
+			<location>C:/Users/patel/Desktop/frog.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>
